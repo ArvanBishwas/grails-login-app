@@ -11,4 +11,5 @@
 //= require messagebox
 //= require jquery-confirm
 //= require confirmbox
+//= require appajax
 //= require_self

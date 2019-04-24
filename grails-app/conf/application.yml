@@ -99,7 +99,7 @@ environments:
     development:
         dataSource:
             dbCreate: update
-            url: jdbc:mysql://localhost:3306/login_db?createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
+            url: jdbc:mysql://localhost:3306/grails_login_app_db?createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
     test:
         dataSource:
             dbCreate: update
